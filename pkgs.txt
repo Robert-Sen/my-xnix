@@ -1,0 +1,5 @@
+vim 
+make cmake
+gcc g++ gdb clang llvm lldb
+zsh
+
